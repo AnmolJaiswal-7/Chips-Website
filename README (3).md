@@ -20,4 +20,4 @@ The Chips Website is built using HTML, CSS, and JavaScript. It features a visual
 
 # Screenshot
 
-![Screenshot 2024-06-13 040017](https://github.com/AnmolJaiswal-7/Hevendev/assets/167762461/706be9a0-0cf9-45fa-ad5c-8dcd5fa4a387)
+![Screenshot 2024-06-13 040017](https://github.com/AnmolJaiswal-7/Chips-Website/assets/167762461/eae5e1ea-e153-42d1-a3af-0ef056927fa3)
