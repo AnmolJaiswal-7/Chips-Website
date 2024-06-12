@@ -1,4 +1,3 @@
-
 # Chips Website
 
 Welcome to the Chips Website, a delightful online platform dedicated to showcasing a variety of chips. From classic flavors to unique, innovative options.
@@ -18,3 +17,7 @@ The Chips Website is built using HTML, CSS, and JavaScript. It features a visual
 - HTML
 - CSS
 - JavaScript
+
+# Screenshot
+
+![Screenshot 2024-06-13 040017](https://github.com/AnmolJaiswal-7/Hevendev/assets/167762461/706be9a0-0cf9-45fa-ad5c-8dcd5fa4a387)
